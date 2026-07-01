@@ -12,45 +12,13 @@ I'm continuously learning and building projects around cloud infrastructure, aut
 
 🛠️ Tech Stack
 
-Cloud
-- AWS
-- Microsoft Azure
-- Google Cloud Platform (GCP)
-- Oracle Cloud
-
-Containers & DevOps
-- Docker
-- Kubernetes (GKE)
-- Helm
-- ArgoCD
-- Jenkins
-- Git & GitHub
-
-Infrastructure
-- VMware vSphere
-- vCenter
-- vRealize
-
-Monitoring & ITSM
-- Nagios
-- ServiceNow
-- Remedy
-- Jira
-- CMDB
-
-Operating Systems
-- Linux
-- Windows
-
-Databases
-- MongoDB
-- SQL
-
-Programming
-- Python
-- Java
-- C
-- C++
+Cloud & Platforms: AWS (Certified Cloud Practitioner), Microsoft Azure (AZ-900), Oracle Cloud, Google Cloud Platform (GCP) 
+Tools & Technologies:  GitHub, Kubernetes (GKE), ArgoCD, Docker, Jenkins, Jira, ServiceNow, Remedy, Nagios, CMDB 
+Virtualization & Private Cloud: VMware vSphere, vCenter, vRealize 
+Databases: MongoDB, SQL 
+Operating Systems: Linux, Windows 
+Programming: Python, Java, C, C++ 
+Web Technologies: HTML, CSS 
 
 **📂 Featured Projects**
 
